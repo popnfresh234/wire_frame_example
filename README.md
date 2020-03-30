@@ -9,7 +9,7 @@ If you'd like to view this page without margins then simply reset the document's
 
 ```
 * {
-margin: 0;
-padding: 0;
+    margin: 0;
+    padding: 0;
 }
 ```
