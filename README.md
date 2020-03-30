@@ -7,7 +7,7 @@ Visit [this link](https://popnfresh234.github.io/wire_frame_example/) to view th
 ### Notes
 If you'd like to view this page without margins then simply reset the document's margins to 0:
 
-```
+```css
 * {
     margin: 0;
     padding: 0;
